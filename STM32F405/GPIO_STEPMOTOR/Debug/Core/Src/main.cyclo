@@ -1,0 +1,14 @@
+main.c:78:5:main	2
+main.c:126:6:SystemClock_Config	3
+main.c:168:13:MX_USART1_UART_Init	2
+main.c:201:13:MX_GPIO_Init	1
+main.c:273:6:set_motor_pins	1
+main.c:303:6:motor_wave_drive	1
+main.c:314:6:motor_full_drive	1
+main.c:320:6:motor_half_drive	1
+main.c:326:6:motor_half_drive_ccw	1
+main.c:332:6:rotate_steps	2
+main.c:344:6:HAL_GPIO_EXTI_Callback	7
+main.c:378:5:__io_putchar	1
+main.c:386:5:_write	2
+main.c:399:6:Error_Handler	1
